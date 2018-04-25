@@ -1,2 +1,5 @@
 angka genap bisa disebut genap jika bisa dibagi dengan 2 contoh jika bisa masukkan angka 6 lalu tambahkan pembagian 2 maka hasilnya akan 3.
-sedangkan sebaliknya ganjil tidak bisa dibagi dengan 2 contoh jika kita masukkan angka 3 lalu tambahkan pembagian 2 maka hasilnya akan menjadi 1,5
+sedangkan sebaliknya ganjil tidak bisa dibagi dengan 2 contoh jika kita masukkan angka 5 lalu tambahkan pembagian 2 maka hasilnya akan menjadi 2,5 dan jika hasilnya menjadi desimal maka tidak bisa disebut dengan angka genap.
+
+angka genap dimulai dari 0 jika kita tambahkan 2 maka hasilnya tetap genap
+sedangkan angka ganjil dimulai dari 1 jika kita tambahkan 2 maka hasilnya akan tetap ganjil
