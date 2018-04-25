@@ -1,0 +1,3 @@
+Buka aplikasi online shop lalu mulai lah login jika sudah memiliki akun akan tetapi jika belum memiliki akun dimulai dengan mendaftar . Setelah masuk kehalaman online shop tersebut carilah barang yang ingin dicari atau yang diperlukan lalu jika sudah pilih ikon beli jika hanya ingin membeli satu barang akan tetapi jika ingin membeli banyak klik ikon keranjang.
+Setelah itu pilih selanjutnya dan isi nama,alamat,kabupaten,kota,kode pos untuk alamat pengiriman setelah itu pilih jenis pengiriman yang diinginkan jika sudah total harga, biaya admin dan biaya pengiriman akan tercantum dan pilih pembayaran sesuai keinginan jika sudah anda akan mendapatkan kode pembayaran untuk membayar tagihan pembelanjaan tsb.
+
