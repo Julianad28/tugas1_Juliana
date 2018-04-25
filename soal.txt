@@ -1,0 +1,3 @@
+Buatlah algoritma membedakan sebuah angka apakah itu angka genap atau angka ganjil.
+kasus : misalkan angka 4 , maka akan dihasilkan kata "genap"
+(cari bagaimana mengetahui itu genap atau ganjil)
