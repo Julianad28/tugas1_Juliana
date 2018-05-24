@@ -40,24 +40,48 @@ public void input(){
 public int harga(){
     switch(barang){
             case "Kulkas" :
-                harga = 35000000;
+                if("Non".equals(sttusanggota))
+                {
+                harga = 3500000;
+                }
+                if  ("Member".equals(sttusanggota))
+                        {
+                            harga=3500000-3500000*10/100;
+                        }
                 break;
             case "TV": 
-                harga=2100000;
+                if("Non".equals(sttusanggota))
+                {
+                harga = 2100000;
+                }
+                if  ("Member".equals(sttusanggota))
+                        {
+                            harga=2100000-2100000*10/100;
+                        }
+                
                 break;
             case "Motor":
-                harga=150000000;
-                break;
+                if("Non".equals(sttusanggota))
+                {
+                harga = 15000000;
                 }
-    
-        return harga;          
+                if  ("Member".equals(sttusanggota))
+                        {
+                            harga=15000000-15000000*10/100;
+                        }
+                break;
+            default:
+    harga=0;       
+    break;
 
+}
+    return harga;
 }
 
 public int total(){
     switch(sttusanggota){
             case "Member":
-         jumlah=harga*kuantitas*10/100;
+         jumlah=harga*kuantitas;
                 break;
             case "Non":
                jumlah=harga*kuantitas;
